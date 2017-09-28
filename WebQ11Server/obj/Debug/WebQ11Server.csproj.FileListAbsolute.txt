@@ -1,0 +1,5 @@
+c:\users\thinh\documents\visual studio 2012\Projects\WebQ11Server\WebQ11Server\bin\WebQ11Server.dll
+c:\users\thinh\documents\visual studio 2012\Projects\WebQ11Server\WebQ11Server\bin\WebQ11Server.pdb
+c:\users\thinh\documents\visual studio 2012\Projects\WebQ11Server\WebQ11Server\obj\Debug\WebQ11Server.csprojResolveAssemblyReference.cache
+c:\users\thinh\documents\visual studio 2012\Projects\WebQ11Server\WebQ11Server\obj\Debug\WebQ11Server.dll
+c:\users\thinh\documents\visual studio 2012\Projects\WebQ11Server\WebQ11Server\obj\Debug\WebQ11Server.pdb
